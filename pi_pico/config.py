@@ -6,11 +6,11 @@
 provisioned = 1
 
 # enter a nickname for this board
-nickname = 'White Box'
+nickname = 'Your Nickname'
 
 # network access details
-wifi_ssid = 'ARRIS-A751'
-wifi_password = 'BWR123201500'
+wifi_ssid = '<your-wifi-name>'
+wifi_password = '<your-wifi-password>'
 
 # how many log files to keep
 log_count = 20
@@ -25,6 +25,6 @@ destination = 'http'
 upload_frequency = 1
 
 # web hook settings
-custom_http_url = 'https://helloworld-gupgkbhkma-uc.a.run.app/'
-custom_http_username = 'aa88d1d5-8632-4a20-a1d2-d91d86078c37'
-custom_http_password = '58235fe5-b321-4fa2-a369-11c3b6608163'
+custom_http_url = 'https://<api-baseurl>/'
+custom_http_username = '<userId>'
+custom_http_password = '<apiKey>'
