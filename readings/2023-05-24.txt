@@ -1,0 +1,2 @@
+time,temperature,humidity,pressure,light,moisture_1,moisture_2,moisture_3
+2023-05-24 10:47:03,25.06,57.0,998.85,652.55,74.55,0,0
