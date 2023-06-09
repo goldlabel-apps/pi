@@ -1,0 +1,4 @@
+[run]
+source = trilobot
+omit =
+    .tox/*
